@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Practica1-P2</string>
+    <string name="Registro">Registro</string>
+    <string name="Usuario">Usuario: </string>
+    <string name="Contraseña">Contraseña: </string>
+    <string name="Confirma">Confirmar contraseña: </string>
+    <string name="Correo">E-mail: </string>
+    <string name="Genero">Género:  </string>
+    <string name="Masculino">Masculino</string>
+    <string name="Femenino">Femenino</string>
+    <string name="Fecha">Fecha de nacimiento</string>
+    <string name="Ciudad">Ciudad de nacimiento</string>
+    <string name="Hobbies">Hobbies</string>
+    <string name="Cine">Cine</string>
+    <string name="Teatro">Teatro</string>
+    <string name="Deporte">Deporte</string>
+    <string name="Cuenteria">Cuentería</string>
+    <string name="Comer">Comer</string>
+    <string name="Dormir">Dormir</string>
+    <string name="aceptar">Aceptar</string>
+
+
+    <string-array name="ciudades">
+        <item></item>
+        <item>Medellin</item>
+        <item>Bogotá</item>
+        <item>Cali</item>
+        <item>Cartagena</item>
+        <item>Barranquilla</item>
+        <item>Santander</item>
+        <item>Bucaramanga</item>
+        <item>Pasto</item>
+    </string-array>
+
+</resources>
